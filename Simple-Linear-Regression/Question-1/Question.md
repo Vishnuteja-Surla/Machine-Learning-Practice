@@ -1,0 +1,3 @@
+What is the relationship between the number of hours a student studies and the marks they get?
+
+You can use the given data to create a linear regression model that predicts the marks a student will get based on the number of hours they study. The data contains two columns: Hours and Scores. You can use the Hours column as the independent variable (input) and the Scores column as the dependent variable (output).
