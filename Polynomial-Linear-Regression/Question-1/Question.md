@@ -1,0 +1,1 @@
+## Using the provided data on positions and their respective salary levels, develop a predictive model to estimate the salary for any given position level. What would be the predicted salary for a position at Level X?
