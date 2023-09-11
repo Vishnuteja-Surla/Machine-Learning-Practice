@@ -1,0 +1,1 @@
+## What machine learning algorithm and feature engineering techniques should be employed to create an accurate predictive model for housing prices in California based on longitude, latitude, housing_median_age, total_rooms, total_bedrooms, population, households, median_income, median_house_value, and ocean_proximity data?
